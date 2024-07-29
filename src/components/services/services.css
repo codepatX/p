@@ -1,0 +1,39 @@
+.services {
+    padding: 2rem;
+    background-color: #EBEAE6;
+    text-align: center;
+}
+
+.services h2 {
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+}
+
+.services-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.service {
+    margin: 1rem;
+    text-align: center;
+    max-width: 300px;
+}
+
+.service img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.service h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.service p {
+    font-size: 1rem;
+    color: #555;
+}
