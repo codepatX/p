@@ -27,7 +27,7 @@ function Nav() {
                 <ul className="navbar-links-right">
                     <li><Link to="/gallery">Gallery</Link></li>
                     <li><Link to="/contact">Contact</Link></li>
-                    <li><Link to="/booking">Book Online</Link></li>
+                    <li><Link to="/booking">Boo Online</Link></li>
                 </ul>
             </nav>
 
